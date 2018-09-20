@@ -1,0 +1,13 @@
+{
+  "name": "w3c-gyro",
+  "description": "This polymer element uses the w3c standard gyro api to display and log the device gyro values",
+  "main": "w3c-gyro.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "wct-browser-legacy": "^1.0.0"
+  }
+}
